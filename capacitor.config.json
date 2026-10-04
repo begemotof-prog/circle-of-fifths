@@ -1,0 +1,6 @@
+{
+  "appId": "com.circlefifths.guitar",
+  "appName": "Круг квинт",
+  "webDir": "www",
+  "android": { "backgroundColor": "#faf8f4" }
+}
